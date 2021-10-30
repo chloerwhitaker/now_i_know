@@ -93,4 +93,5 @@
                     Distinct Colors 
                     ⇒
                     Distinct Categories
-                    
+    - FRI, 29OCT21
+        1. Learned Tableau! 
