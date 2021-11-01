@@ -95,3 +95,5 @@
                     Distinct Categories
     - FRI, 29OCT21
         1. Learned Tableau! 
+    -MONm 01NOV21
+        1. "There are three types of lies. Lies, damn lies, and statistics."
